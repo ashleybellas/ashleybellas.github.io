@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+# Ashley Bellas
+## Ashley Bellas
+### Ashley Bellas
 
-You can use the [editor on GitHub](https://github.com/ashleybellas/ashleybellas.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is a broad description of my research.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Note the following coding options:
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code block and diff
 
 # Header 1
 ## Header 2
