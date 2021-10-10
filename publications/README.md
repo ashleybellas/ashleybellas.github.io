@@ -1,6 +1,6 @@
 <h1> Publications </h1>
 Bellas, A., & S.J. Zhong (<a href="BellasZhong_2021_JGRSE.pdf">2021</a>), Effects of a weak lower crust on the flexure of continental lithosphere, J. Geophys. Res.: Solid Earth, <b>126</b>, 10, e2021JB022678.
-
+  
 Bellas, A., S.J. Zhong, & A.B. Watts (<a href="GJI-S-21-0544.R1_Proof_fl.pdf">2021</a>), Reconciling lithospheric rheoogy between laboratory experiments, field observations, and different tectonic settings, Geophyical Journal International, ggab382.
 
 Bellas, A., & S.J. Zhong (<a href="BellasZhong_2021_G3.pdf">2021</a>), Seismic strain rate and flexure at the Hawaiian Islands constrain the frictional coefficient, Geochemistry, Geophysics, Geosystems, <b>22</b>, e2020GC009547.
