@@ -1,6 +1,30 @@
 # Ashley Bellas     
 
-[Home](README.md)       [Doctoral Dissertation](test)         [Publications](/publications/README.md)               [CV](test)
+<html>
+<head></head>
+ <body>
+    <div style="width: 100%; display: table;">
+        <div style="display: table-row; height: 100px;">
+            <div style="width: 20%; display: table-cell; background: green;">
+             [Home](README.md)
+            </div>
+            <div style="display: table-cell; background: blue;"> 
+             [Doctoral Dissertation](test) 
+            </div>
+            <div style="display: table-cell; background: green;"> 
+             [Publications](/publications/README.md) 
+            </div>
+            <div style="display: table-cell; background: blue;"> 
+             [CV](test)
+            </div>
+            <div style="display: table-cell; background: green;"> 
+            </div>
+        </div>
+    </div>
+ </body>
+</html>
+
+
 
 <html>
 <head></head>
