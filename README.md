@@ -1,4 +1,4 @@
-_# Ashley Bellas     
+# Ashley Bellas     
 
 [Home](README.md)       [Doctoral Dissertation](test)         [Publications](/publications/README.md)               [CV](test)
 
@@ -19,7 +19,7 @@ _# Ashley Bellas
 </html>
 
 **Contact**
-Earth, Atmospheric and Planetary Sciences
-Massachusetts Institute of Technology
-Building 54, 1018
+Earth, Atmospheric and Planetary Sciences  
+Massachusetts Institute of Technology  
+Building 54, 1018  
 abellas (at) mit (dot) edu
