@@ -8,7 +8,7 @@
     <div style="width: 100%; display: table;">
         <div style="display: table-row; height: 100px;">
             <div style="width: 20%; display: table-cell; background: pink;">
-             <a href=README.md>Home</a>
+             <a href="README.md">Home</a>
             </div>
             <div style="width: 20%; display: table-cell; background: orange;">
              <a href=README.md>Doctoral Dissertation</a>
@@ -16,19 +16,20 @@
             <div style="width: 20%; display: table-cell; background: pink;">
              <a href=/publications/README.md>Publications</a>
             </div>
-            <div style="width: 20%; display: table-cell; background: pink;">
+            <div style="width: 20%; display: table-cell; background: orange;">
              <a href=/publications/README.md>CV</a>
             </div>
         </div>
     </div>
  </body>
 </html>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+  
+  
+  
+  
+  
+  
+  
 <html>
 <head></head>
  <body>
@@ -44,6 +45,11 @@
     </div>
  </body>
 </html>
+  
+  
+  
+  
+  
   
 <center>  
 <b>Contact</b> </br>  
