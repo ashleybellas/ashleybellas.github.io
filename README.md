@@ -1,30 +1,34 @@
 # Ashley Bellas     
+ 
+ Please note this site is currently under construction. Please excuse the mess.
 
 <html>
 <head></head>
  <body>
     <div style="width: 100%; display: table;">
         <div style="display: table-row; height: 100px;">
-            <div style="width: 20%; display: table-cell; background: green;">
+            <div style="width: 20%; display: table-cell; background: pink;">
              [Home](README.md)
             </div>
-            <div style="display: table-cell; background: blue;"> 
+            <div style="width: 20%; display: table-cell; background: orange;">
              [Doctoral Dissertation](test) 
             </div>
-            <div style="display: table-cell; background: green;"> 
+            <div style="width: 20%; display: table-cell; background: pink;">
              [Publications](/publications/README.md) 
             </div>
-            <div style="display: table-cell; background: blue;"> 
+            <div style="width: 20%; display: table-cell; background: orange;">
              [CV](test)
             </div>
-            <div style="display: table-cell; background: green;"> 
+            <div style="width: 20%; display: table-cell; background: pink;">
             </div>
         </div>
     </div>
  </body>
 </html>
-
-
+  
+  
+  
+  
 
 <html>
 <head></head>
