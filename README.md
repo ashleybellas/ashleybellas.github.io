@@ -19,10 +19,9 @@
 </html>
   
   
-<p style="text-align:center">
 **Contact**
 Earth, Atmospheric and Planetary Sciences  
 Massachusetts Institute of Technology  
 Building 54, 1018  
 abellas (at) mit (dot) edu
-</p>
+
