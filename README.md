@@ -6,7 +6,7 @@
 <head></head>
  <body>
     <div style="width: 100%; display: table;">
-        <div style="display: table-row; height: 100px;">
+        <div style="display: table-row;">
             <div style="width: 20%; display: table-cell; background: pink;">
              <a href="README.md">Home</a>
             </div>
