@@ -8,3 +8,6 @@ Bellas, A., & S.J. Zhong ([2021](BellasZhong_2021_G3.pdf)), Seismic strain rate 
 Bellas, A., S.J. Zhong, & A.B. Watts ([2020](BellasZhongWatts_2020_G3.pdf)), Constraints on the rheology of the lithosphere from flexure of the Pacific plate at the Hawaiian Islands, Geochemistry, Geophysics, Geosystems, *21*, 2, e2019GC008819.
 
 Bellas, A., S.J. Zhong, D. Bercovivi & E. Mulyukova ([2018](Bellas_2018_PEPI.pdf)), Dynamic weakening with grain-damage and implications for slab detachment, Physics of the Earth and Planetary Interiors, 285, 76–90.
+
+
+
