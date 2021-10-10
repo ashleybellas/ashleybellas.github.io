@@ -1,5 +1,5 @@
 # Ashley Bellas     
-[Home](test)       [Doctoral Dissertation](test)         [Publications](test)               [CV](test)
+[Home](test)       [Doctoral Dissertation](test)         [Publications](/publications/README.md)               [CV](test)
 broad research statement
 
 
