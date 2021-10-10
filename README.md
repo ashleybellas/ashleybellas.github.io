@@ -8,7 +8,6 @@
     <div style="width: 100%; display: table;">
         <div style="display: table-row; height: 100px;">
             <div style="width: 20%; display: table-cell; background: pink;">
-             [Home](README.md)
              <a href=README.md>Home</a>
             </div>
             <div style="width: 20%; display: table-cell; background: orange;">
