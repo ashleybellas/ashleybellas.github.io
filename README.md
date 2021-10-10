@@ -13,3 +13,19 @@ Building 54, 1018
 abellas (at) mit (dot) edu
 
 <img align="center" width="250" src="3_highres.jpg">
+
+<html>
+<head></head>
+ <body>
+    <div style="width: 100%; display: table;">
+        <div style="display: table-row; height: 100px;">
+            <div style="width: 50%; display: table-cell; background: green;">
+                Left Div 
+            </div>
+            <div style="display: table-cell; background: blue;"> 
+                Right Div
+            </div>
+        </div>
+    </div>
+ </body>
+</html>
