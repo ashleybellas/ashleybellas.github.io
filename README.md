@@ -1,6 +1,13 @@
 # Ashley Bellas     
  
  Please note this site is currently under construction. Please excuse the mess.
+ <nav>
+  <a href="README.md">Home</a> |
+  <a href="README.md">Doctoral Dissertation</a> |
+  <a href="/publications/README.md">Publications</a> |
+  <a href="/publications/README.md">CV</a>
+</nav>
+ 
 
 <html>
 <head></head>
