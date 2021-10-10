@@ -11,13 +11,13 @@
              <a href="README.md">Home</a>
             </div>
             <div style="width: 20%; display: table-cell; background: orange;">
-             <a href=README.md>Doctoral Dissertation</a>
+             <a href="README.md">Doctoral Dissertation</a>
             </div>
             <div style="width: 20%; display: table-cell; background: pink;">
-             <a href=/publications/README.md>Publications</a>
+             <a href="/publications/README.md">Publications</a>
             </div>
             <div style="width: 20%; display: table-cell; background: orange;">
-             <a href=/publications/README.md>CV</a>
+             <a href=/"publications/README.md">CV</a>
             </div>
         </div>
     </div>
