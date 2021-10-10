@@ -1,6 +1,6 @@
 _# Ashley Bellas     
 
-[Home](test)       [Doctoral Dissertation](test)         [Publications](/publications/README.md)               [CV](test)
+[Home](README.md)       [Doctoral Dissertation](test)         [Publications](/publications/README.md)               [CV](test)
 
 <html>
 <head></head>
