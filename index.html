@@ -6,12 +6,13 @@
   top: 0;
   left: 0;
   background-image: url('earth14_long.jpg');
-  background-size: 100% 100%;   /* 🔑 stretch to fit window */
-  background-repeat: no-repeat; /* 🔑 prevent tiling */
+  background-size: 100% auto;     /* fit window width, preserve aspect ratio */
+  background-repeat: no-repeat;
+  background-position: top center;
   position: absolute;
   background-attachment: fixed;
   width: 100%;
-  min-height: 100vh;            /* 🔑 ensure full viewport height */
+  min-height: 100vh;
   overflow-x: hidden;
 }
 .body1 {margin-left: 10%; margin-right: 10%; margin-top: 3%; margin-bottom: 3%; padding: 3%; background-color: rgb(255 255 255); font-family: "courier"; font-size:100%;}
