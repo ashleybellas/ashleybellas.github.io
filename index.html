@@ -7,17 +7,19 @@ html, body {
 .nav {list-style: none; text-align: center; padding: 0% 0 0% 0;}
 .nav ul {display: flex; justify-content: space-around; padding: 2%;}
 .nav li {list-style: none; display: inline-block;}
-.body2 {
-  top: 0;
-  left: 0;
-  position: fixed;        /* 🔑 key change */
-  width: 100%;
-  height: 100vh;          /* 🔑 ensures full screen coverage */
-
-  background-image: url('earth14_long.jpg');
+body {
+  background-image: url('earth14_wide.jpg');
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-position: top center;
+  background-attachment: fixed;
+  background-color: black;
+}
+
+.body2 {
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
 }
 .body1 {
   margin-left: 10%;
@@ -28,9 +30,8 @@ html, body {
   background-color: rgb(255 255 255);
   font-family: "courier";
   font-size:100%;
-
-  position: relative;   /* ✅ add this */
-  z-index: 1;           /* ✅ add this */
+  position: relative;
+  z-index: 1;
 }
   
 .header1 {font-size:350%;}
