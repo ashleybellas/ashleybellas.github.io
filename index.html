@@ -2,30 +2,32 @@
 html, body {
   margin: 0;
   padding: 0;
+  overscroll-behavior: none;
 }
 
 .nav {list-style: none; text-align: center; padding: 0% 0 0% 0;}
 .nav ul {display: flex; justify-content: space-around; padding: 2%;}
 .nav li {list-style: none; display: inline-block;}
-body {
+
+.body2 {
+  position: absolute;         /* 🔑 NOT fixed */
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+
   background-image: url('earth14_wide.jpg');
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-position: top center;
   background-attachment: fixed;
-  background-color: black;
-}
-
-.body2 {
-  width: 100%;
-  min-height: 100vh;
-  overflow-x: hidden;
 }
 .body1 {
   margin-left: 10%;
   margin-right: 10%;
   margin-top: 3%;
-  margin-bottom: 3%;
+  margin-bottom: 50%;
   padding: 3%;
   background-color: rgb(255 255 255);
   font-family: "courier";
